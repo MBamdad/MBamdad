@@ -1,5 +1,6 @@
-<h1 align="center">Hi there👋, Mostafa Bamdad here, an Iranian professional residing in Germany</h1>
-<h3 align="center">A passionate frontend ML engineer</h3>
+<h1 align="center">Hi there👋, I'm Mostafa </h1>
+<h3 align="center">An Iranian Machine Learning researcher residing in Germany</h3>
+
 
 
 
@@ -8,7 +9,7 @@
 - 👯 I’m looking to collaborate on **projects related to computational mechanics, data science or ML applications in engineering**
 
 - 💬 Ask me about **solving PDEs, ML, PINNs, FNO, SANO, scientific programming**
-- Papers: https://scholar.google.com/citations?user=JzxmQUMAAAAJ&hl=en
+- Papers are availible here: https://scholar.google.com/citations?user=JzxmQUMAAAAJ&hl=en
 - 📫 You can reach me: **mostafa.bamdad@uni-weimar.de**
 
 <h3 align="left">Connect with me:</h3>
