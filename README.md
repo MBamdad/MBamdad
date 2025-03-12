@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, Mostafa Bamdad here, an Iranian professional currently living in Germany</h1>
+<h1 align="center">Hi there👋, Mostafa Bamdad here, an Iranian professional residing in Germany</h1>
 <h3 align="center">A passionate frontend ML engineer</h3>
 
 
